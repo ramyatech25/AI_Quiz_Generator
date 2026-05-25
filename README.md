@@ -19,7 +19,7 @@ A terminal‑based Python quiz application that asks questions, accepts answers,
 
 ## How to Run
 
-1. Save all four files (`quiz.py`, `questions.txt`, `scores.txt`, `README.md`) in one folder.
+1. Save all four files (`quiz.py`, `questions.txt`, `scores.txt`, quiz_optional-features .py,`README.md`) in one folder.
 2. Open a terminal / command prompt **in that folder**.
 3. Run:
    ```bash
