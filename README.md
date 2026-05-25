@@ -5,7 +5,7 @@ A terminal‑based Python quiz application that asks questions, accepts answers,
 ## Features (All mandatory + optional)
 
 - ✅ Welcome message
-- ✅ Minimum 8 quiz questions (easily changeable)
+- ✅ Minimum 5 quiz questions (easily changeable)
 - ✅ User answer input (with MCQ letter support)
 - ✅ Answer validation
 - ✅ Score calculation
@@ -24,3 +24,6 @@ A terminal‑based Python quiz application that asks questions, accepts answers,
 3. Run:
    ```bash
    python quiz.py
+4. Run
+    ```bash
+   python  python quiz_optional-features .py
