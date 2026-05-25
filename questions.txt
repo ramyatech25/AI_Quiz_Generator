@@ -1,0 +1,5 @@
+What is Python?|programming language
+What does AI stand for?|artificial intelligence
+Which keyword is used to define a function in Python?|def
+What symbol is used for comments in Python?|#
+Which data type stores whole numbers?|int
